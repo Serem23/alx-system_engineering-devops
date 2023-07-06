@@ -1,0 +1,3 @@
+#!/bin/bash
+chown vincent betty 
+chgrp staff school 
